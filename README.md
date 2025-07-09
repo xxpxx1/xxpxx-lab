@@ -23,8 +23,8 @@ Mengembangkan alat-alat digital untuk rekonstruksi, penemuan celah, dan pemahama
 ---
 
 ## 💬 Kontak / Kolaborasi
-`Telegram: @xxpxx_lab`  
-`Email: yourmail@proton.me`
+`Telegram:
+`Email:
 
 > _"Setiap sistem punya suara. Aku hanya mendengarkannya lebih dalam."_  
 > — xxpxx
